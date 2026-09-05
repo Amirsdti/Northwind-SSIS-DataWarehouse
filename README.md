@@ -20,10 +20,13 @@ The Data Warehouse follows a **Snowflake Schema** design. This normalized dimens
 
 ## 🖼️ Snapshots
 
+## DimEployees
 <img width="882" height="606" alt="DimEployees" src="https://github.com/user-attachments/assets/277ed941-1fe1-4763-bb32-24403dce35d5" />
 
+## DimProducts
 <img width="851" height="627" alt="DimProducts" src="https://github.com/user-attachments/assets/ae7119ac-8c36-4a70-9ebc-b42e160bdf9c" />
 
+## FactOrders
 <img width="658" height="702" alt="FactOrders01" src="https://github.com/user-attachments/assets/3d490021-1f67-4449-ab12-f58e70df541b" />
 
 <img width="696" height="637" alt="FactOrders02" src="https://github.com/user-attachments/assets/e92287c6-ca43-40c9-8053-435ef9ec8444" />
